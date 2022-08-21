@@ -23,4 +23,4 @@ VALUES ("J", "K", 1, null);
 -- Update an Employee Role
 UPDATE employee
 SET employee.role_id = 7
-WHERE employee.id = 11;
+WHERE employee.id = 1;
